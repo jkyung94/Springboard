@@ -1,3 +1,0 @@
-Readme for Capstone Project 1
-
-Will eventually come up with three...
