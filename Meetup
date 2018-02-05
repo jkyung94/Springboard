@@ -1,0 +1,11 @@
+## Meetup with R Ladies with guest speakers Jenny Bryan and Hadley Wickham
+1/30/18 at Classy
+
+This meetup was definitely exciting because Jenny and Hadley were the speakers. Their talks were definitely educational as 
+Jenny went indepth on how to use list-columns using the R package purrr, with interesting examples using game of thrones, 
+and Hadley introduced a new vocabulary called bang-bang (!!) to unquote different user expressions and also expr and enexpr 
+in the package rlang, going back to the 3 big ideas about R. I was new to R so these ideas were very helpful to learn (R code 
+is a tree, Unquoting lets you build trees, capture user input by quoting). The practice problems also helped actually see how 
+!! could be used, and I became more excited to see how I could be using both list-columns and !! in the near future as my 
+company uses R to perform different data analysis. Other than the speakers, the R Ladies were very welcoming and nice, and I 
+got to meet people from a many different backgrounds, from experienced to those who were in the same shoes as I was, new to R. 
